@@ -1,0 +1,9 @@
+- precis laddat ner docker & kört supabase start. 
+- behöver installera docker nu när jag hämtat.
+- kör detta:  sudo dnf install ./docker-desktop-x86_64.rpm
+- sen, fortsätt här:
+https://supabase.com/docs/guides/local-development?queryGroups=package-manager&package-manager=pnpm#quickstart
+
+- följde även denna för att komma ihång med supabase
+- kör en migrering på datan, sen kanske testa gör en hämtming på det för att se att connection inns
+- https://supabase.com/docs/guides/getting-started/quickstarts/sveltekit
