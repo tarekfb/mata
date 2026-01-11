@@ -53,6 +53,7 @@
 		"vitest": "^4.0.15"
 	},
 	"dependencies": {
+		"@supabase/ssr": "^0.8.0",
 		"@supabase/supabase-js": "^2.90.1",
 		"postgres": "^3.4.7"
 	}
